@@ -48,7 +48,7 @@
 
 # Prerequisites
 
-To work with PITCHES App you need to have some few prerequisites.
+To work with Blog website you need to have some few prerequisites.
 
 - Python3.6
 
