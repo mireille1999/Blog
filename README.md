@@ -14,7 +14,7 @@
 | Inputs |  Description |
 | :---         |          ---: |
 | Username  | Account username, ``eg mimi_mireille``|
-| Password  | Account password, ``eg hahahaha``|
+| Password  | Account password, ``eg mireille``|
 
 >Signup inputs
 
@@ -25,13 +25,6 @@
 | Password  | Account password, ``eg mimi23``|
 | Confirm Password  | Account password, ``eg hahahaha``|
 
-> Pitches inputs
-
-| Inputs | Description  |
-|---|---|
-|  Heading | Pitch description eg; ``pickup lines``  |
-|  Pitch text| The actual pitch body|
-| Comment| A comment on the pitch|
 
 ## User Story
 
