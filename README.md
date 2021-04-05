@@ -69,7 +69,7 @@ The following command installs all the application requirements
 
 ## Setup
 Run 
-``git clone https://github.com/mireille1999/Pitches.git``
+``git clone https://github.com/mireille1999/Blog.git``
 
 or download the zip file from github.
 
