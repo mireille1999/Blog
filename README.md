@@ -23,7 +23,7 @@
 | Username  | Account username, ``eg mimi_mireille``|
 | Email  | User email, ``eg mimimireille@gmail.com``|
 | Password  | Account password, ``eg mimi23``|
-| Confirm Password  | Account password, ``eg hahahaha``|
+| Confirm Password  | Account password, ``eg mimi23``|
 
 
 ## User Story
