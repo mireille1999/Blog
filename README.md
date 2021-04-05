@@ -5,7 +5,7 @@
  - MIREILLE MUHAWENIMANA
 
  ## DESCRIPTION 
- - This is a Python-Flask blogging website that allows users   where you can create and share your opinions and other users can read and comment on them.
+ - This is a Python-Flask blogging website that allows users to post articles , comment on other people's articles.Therefore, it's where you can create and share your opinions and other users can read and comment on them.
 
  ## BDD(Behaviour Driven Development)
 
