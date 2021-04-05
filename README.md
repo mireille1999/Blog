@@ -28,21 +28,15 @@
 
 ## User Story
 
-- Users can see the pitches other people have posted.
-
-- Users can vote on the pitch they liked and give it a downvote or upvote.
+- Users can see the article other people have posted.
 
 - Users can sign in to leave a comment.
 
 - Users can register on the website.
 
-- Users can view the pitches they have created in their profile page..
+- Users can view the articles they have created in their profile page.. 
 
-- Users can comment on the different pitches and leave feedback. 
-
-- Users can submit a pitch in any category. 
-
-- Users can view the different categories. 
+- Users can view the different quotes on home page. 
 
 ## Technologies used
 * Python3
