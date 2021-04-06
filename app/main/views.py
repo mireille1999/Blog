@@ -8,11 +8,12 @@ import markdown2
 from .email import mail_message
 from ..models import User, Post, Role, Comment, Subscribers
 from datetime import datetime
+from sqlalchemy import desc
 
 @main.route('/',methods=['GET', 'POST'])
 def index():
     title= "Blog On | Home "
-    all = Post.query.order_by('-id').all()
+    all = Post.query.order_by(desc(Post.id)).all()
     print(f'blogs {all}')
   
     subscribers = SubscribersForm()
